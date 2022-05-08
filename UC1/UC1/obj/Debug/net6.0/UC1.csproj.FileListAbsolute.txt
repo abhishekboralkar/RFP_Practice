@@ -1,0 +1,15 @@
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\UC1.csproj.AssemblyReference.cache
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\UC1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\UC1.AssemblyInfoInputs.cache
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\UC1.AssemblyInfo.cs
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\UC1.csproj.CoreCompileInputs.cache
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\bin\Debug\net6.0\UC1.exe
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\bin\Debug\net6.0\UC1.deps.json
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\bin\Debug\net6.0\UC1.runtimeconfig.json
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\bin\Debug\net6.0\UC1.dll
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\bin\Debug\net6.0\UC1.pdb
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\UC1.dll
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\refint\UC1.dll
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\UC1.pdb
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\UC1.genruntimeconfig.cache
+D:\Bridgelabz RFP\.Net\.vs\UC1\UC1\obj\Debug\net6.0\ref\UC1.dll
