@@ -1,0 +1,15 @@
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\bin\Debug\net6.0\Day2UC2.exe
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\bin\Debug\net6.0\Day2UC2.deps.json
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\bin\Debug\net6.0\Day2UC2.runtimeconfig.json
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\bin\Debug\net6.0\Day2UC2.dll
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\bin\Debug\net6.0\Day2UC2.pdb
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\Day2UC2.csproj.AssemblyReference.cache
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\Day2UC2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\Day2UC2.AssemblyInfoInputs.cache
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\Day2UC2.AssemblyInfo.cs
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\Day2UC2.csproj.CoreCompileInputs.cache
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\Day2UC2.dll
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\refint\Day2UC2.dll
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\Day2UC2.pdb
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\Day2UC2.genruntimeconfig.cache
+D:\Bridgelabz RFP\.Net\.vs\Day2UC2\Day2UC2\obj\Debug\net6.0\ref\Day2UC2.dll
